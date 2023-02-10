@@ -5,7 +5,7 @@
 
 ## Obtendo Dados do Site Mercado Livre
 
-Primeiro devemos dissecar o 'problema' em partes menores, para então apresentarmos as suas respectivas soluçoes.
+Primeiramente, antes de qualquer coisa, devemos dissecar o 'problema' em partes menores, para então apresentarmos as suas respectivas soluçoes.
 
 ## 1- Quais são os 'problemas' te todo o 'problema' ? 
   A-controlar o SO com software de teste automatizado.
