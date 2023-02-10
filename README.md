@@ -10,12 +10,21 @@
   <br>
   
    O projeto consiste na ideia de usar o aprendizado de máquina com a linguagem de programação Python como softwer de teste automatizado afim de fazer uma consulta no website Mercado Livre ,e obter através da CLASS_NAME  e TAG_NAME do html do site, os dados de Nome do produto, Preço(formatando para valor flutuante) e o link para o produto em específico.
-   <p>
-  Em segida, criar um arquivo workbook com uma arquivo xlsx, e importar os dados da consulta divididos por colunas na a sheet('Dados'). As colunas são denominadas Produto, Preço e Link respectivamente
   <br>
   <br>
-  <br>
-  <br>
-  <br>
+ 
+![SiteMercado](https://user-images.githubusercontent.com/114637779/218005506-658a84a5-9e65-48e4-88e1-482094ee1637.png)
 
-  ![Frame_Relatorio](https://user-images.githubusercontent.com/114637779/217999152-4388fbde-fce5-455e-bf8d-45f906083886.png)
+
+ 
+
+  
+  
+ Em segida, criar um arquivo workbook com uma arquivo xlsx, e importar os dados da consulta divididos por colunas na a sheet('Dados'). As colunas são denominadas Produto, Preço e Link respectivamente
+ 
+    
+
+![Planilhapng](https://user-images.githubusercontent.com/114637779/218006478-12fca5d0-b487-45df-878a-e0ab65fe30c3.png)
+
+
+  
