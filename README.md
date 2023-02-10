@@ -20,7 +20,7 @@
 
   <br><br>
   
- Em segida, criar um arquivo workbook com uma arquivo xlsx, e importar os dados da consulta divididos por colunas na a sheet('Dados'). As colunas são denominadas Produto, Preço e Link respectivamente
+ Em segida, um arquivo workbook com uma arquivo xlsx, recebe os dados da consulta divididos por colunas na a sheet('Dados'). As colunas são denominadas Produto, Preço e Link respectivamente
  
 
     
