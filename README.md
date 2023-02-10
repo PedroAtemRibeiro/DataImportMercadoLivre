@@ -9,7 +9,7 @@
   <br>
   <br>
   
-   O projeto consiste na ideia de usar o aprendizado de máquina com a linguagem de programação Python ,e usar esse software de teste automatizado afim de fazer uma consulta no website Mercado Livre ,e obter através da CLASS_NAME  e TAG_NAME do html do site, os dados de Nome do produto, Preço(formatando para valor flutuante) e o link para o produto em específico.
+   O projeto consiste na ideia de usar o aprendizado de máquina com a linguagem de programação Python ,como software de teste automatizado afim de fazer uma consulta no website Mercado Livre ,e obter através da CLASS_NAME  e TAG_NAME do html do site, os dados de Nome do produto, Preço(formatando para valor flutuante) e o link para o produto em específico.
   <br>
   <br>
  
