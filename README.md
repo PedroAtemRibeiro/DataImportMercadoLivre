@@ -18,12 +18,15 @@
 
  
 
-  
+  <br><br>
   
  Em segida, criar um arquivo workbook com uma arquivo xlsx, e importar os dados da consulta divididos por colunas na a sheet('Dados'). As colunas são denominadas Produto, Preço e Link respectivamente
  
-    
 
+    
+  <br><br>  
+    
+    
 ![Planilhapng](https://user-images.githubusercontent.com/114637779/218006478-12fca5d0-b487-45df-878a-e0ab65fe30c3.png)
 
 
