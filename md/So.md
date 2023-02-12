@@ -1,12 +1,12 @@
 
-1 - Começamos Importando as bibliotecas responsáveis por controlar o sistema operacional, contidas no pacote Selenium.
+1 - We start by importing the libraries responsible for controlling the operating system, contained in the Selenium package.
 <br>
 
 ![p1](https://user-images.githubusercontent.com/114637779/218185228-204436f4-11ab-4394-9f50-0dba08caeba7.png)
 
 <br>
 
-2- Em seguida usamos uma das funçoes nativas do Selenium para abri o navegador "Google Chrome". 
+2- Then we use one of Selenium's native functions to open the "Google Chrome" browser. 
 
 <br>
 
