@@ -1,18 +1,19 @@
-Definindo a Variavel que irá percorrer toda a lista de produto na pagina html.
+Defining the Variable that will go through the entire product list on the html page.
+
 ![p5](https://user-images.githubusercontent.com/114637779/218190224-e60360dc-4431-4385-9356-919bc73ab34e.png)
 
-Dentro do laço de repetição for, em cada execução é extraído os conteudos de: 
+Inside the loop for repetition, in each execution the contents of:
 
 
--  Nome do produto(Através do identificador CLASS_NAME)
--  Valor inteiro(Através do identificador CLASS_NAME)
--  Valor flutuante(Através do identificador CLASS_NAME)
--  Url produto(Através do identificador TAG_NAME)
+-  Product name (By identifier CLASS_NAME)
+-  Integer value (By identifier CLASS_NAME)
+-  Float value (Through the identifier CLASS_NAME)
+-  Product Url (By identifier TAG_NAME)
 
 ![p6](https://user-images.githubusercontent.com/114637779/218190276-516ab502-608c-4184-b8d9-488be4853e40.png)
 
 <br>
-Em seguida, esses elementos sao salvos em variáveis.
+Then these elements are saved in variables.
 
 
-Obs: é adicionado o tratamento de erro "Try/Except" na variavel de valor flutuante, onde a variável só é atribuida ao valor, se cumprir a condição de ser diferente de 0.
+Observation: The "Try/Except" error treatment is added to the floating value variable, where the variable is only assigned the value if it meets the condition of being different from 0.
