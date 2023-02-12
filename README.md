@@ -22,7 +22,7 @@ and the link to the specific product.
 
   <br><br>
   
- Em segida, um arquivo workbook com uma arquivo xlsx, recebe os dados da consulta divididos por colunas na sheet('Dados'). As colunas são denominadas Produto, Preço e Link respectivamente.
+Then, a workbook file with an empty xlsx file, receives the query data divided by columns in the sheet('Data'). The columns are named Product, Price and Link respectively.
  
 
     
