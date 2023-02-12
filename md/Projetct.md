@@ -15,11 +15,11 @@ First of all, before anything else, we must dissect the 'problem' into smaller p
   <br>
   C- Data Extract to a variable. 
   <br>
-  D- Data processing
+  D- Data processing.
   <br>
-  D- Manipulate Workbook Type file using Python
+  D- Manipulate Workbook Type file using Python.
   <br>
-  E- Data export (Obtained from the website to an .xlsx file)
+  E- Data export (Obtained from the website to an .xlsx file).
   <br>
 
 ## 2- Soluctions: 
