@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## Obtaining Data from the Mercado Livre's Site
+## Obtaining Data from the Mercado Livre's WebSite
 
 First of all, before anything else, we must dissect the 'problem' into smaller parts, so that we can then present their respective solutions.
 
