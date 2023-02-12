@@ -17,3 +17,6 @@ Then these elements are saved in variables.
 
 
 Observation: The "Try/Except" error treatment is added to the floating value variable, where the variable is only assigned the value if it meets the condition of being different from 0.
+
+
+![p10](https://user-images.githubusercontent.com/114637779/218330793-bd87935d-1d40-4f6f-92cf-988ae9c33fb0.png)
