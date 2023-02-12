@@ -10,7 +10,7 @@
   <br>
   
  
-The project consists the idea of using machine learning with the Python programming language, as an automated test software in order to make a query on the Mercado Livre website, and obtain, through the CLASS_NAME and TAG_NAME of the website's html, the data of Name of product site, Price (formatting to floating value),
+The project consists the idea of using machine learning with the Python programming language, as an automated test software in order to make a query on the Mercado Livre's website, and obtain, through the CLASS_NAME and TAG_NAME of the website's html, the data of Name of product site, Price (formatting to floating value),
 and the link to the specific product.
   <br>
   <br>
@@ -22,7 +22,7 @@ and the link to the specific product.
 
   <br><br>
   
-Then, a workbook file with an empty xlsx file, receives the query data divided by columns in the sheet('Data'). The columns are named Product, Price and Link respectively.
+Then, a workbook file with an empty xlsx file, receives the query data divided by columns in the sheet('Data'). The columns are 'nomeProduto', 'Preço' and 'Link' respectively.
  
 
     
