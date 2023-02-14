@@ -23,7 +23,7 @@ First of all, before anything else, we must dissect the 'problem' into smaller p
   <br>
 
 ## 2- Soluctions: 
--   <a href="https://github.com/PedroAtemRibeiro/DataImportMercadoLivre/blob/main/md/So.md">SO Manipulate</a>
+-   <a href="https://github.com/PedroAtemRibeiro/DataImportMercadoLivre/blob/main/md/So.md">OS Manipulate</a>
 -   <a href="https://github.com/PedroAtemRibeiro/DataImportMercadoLivre/blob/main/md/web.md">Web Browsing with automated testing software</a>
 -   <a href="https://github.com/PedroAtemRibeiro/DataImportMercadoLivre/blob/main/md/Extra%C3%A7%C3%A3o.md">Extracting and Processing the Data</a>
 -   <a href="https://github.com/PedroAtemRibeiro/DataImportMercadoLivre/blob/main/md/Exporta%C3%A7%C3%A3o.md">Data Export</a>
